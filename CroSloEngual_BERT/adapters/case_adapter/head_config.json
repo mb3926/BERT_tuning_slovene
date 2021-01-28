@@ -1,0 +1,17 @@
+{
+  "config": null,
+  "hidden_size": 768,
+  "label2id": {
+    "Acc": 0,
+    "Dat": 1,
+    "Gen": 2,
+    "Ins": 3,
+    "Loc": 4,
+    "Nom": 5,
+    "O": 6
+  },
+  "model_class": "BertForTokenClassification",
+  "model_name": "EMBEDDIA/crosloengual-bert",
+  "model_type": "bert",
+  "name": null
+}

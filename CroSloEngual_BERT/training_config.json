@@ -1,0 +1,16 @@
+{
+    "data_dir": "./data/ssj500k_ner",
+    "labels": "./data/ssj500k_ner/labels.txt",
+    "model_name_or_path": "EMBEDDIA/crosloengual-bert",
+    "output_dir": "results/first_run",
+    "max_seq_length": 256,
+    "num_train_epochs": 1,
+    "per_device_train_batch_size": 16,
+    "save_steps": 425,
+    "seed": 1,
+    "do_train": true,
+    "do_eval": true,
+    "do_predict": true,
+    "train_adapter": true,
+    "fp16": true
+}

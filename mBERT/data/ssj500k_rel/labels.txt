@@ -1,0 +1,10 @@
+AdvM
+AdvO
+Atr
+Conj
+Coord
+MWU
+Obj
+PPart
+Root
+Sb

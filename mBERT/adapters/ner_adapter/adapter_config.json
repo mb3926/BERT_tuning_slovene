@@ -1,0 +1,22 @@
+{
+  "config": {
+    "adapter_residual_before_ln": false,
+    "invertible_adapter": null,
+    "leave_out": [],
+    "ln_after": false,
+    "ln_before": false,
+    "mh_adapter": true,
+    "non_linearity": "swish",
+    "original_ln_after": true,
+    "original_ln_before": false,
+    "output_adapter": true,
+    "reduction_factor": 12,
+    "residual_before_ln": true
+  },
+  "hidden_size": 768,
+  "model_class": "BertForTokenClassification",
+  "model_name": "bert-base-multilingual-cased",
+  "model_type": "bert",
+  "name": "ssj500k_ner",
+  "type": "text_task"
+}

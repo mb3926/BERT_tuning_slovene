@@ -1,0 +1,17 @@
+{
+  "config": null,
+  "hidden_size": 768,
+  "label2id": {
+    "B-LOC": 0,
+    "B-ORG": 1,
+    "B-PER": 2,
+    "I-LOC": 3,
+    "I-ORG": 4,
+    "I-PER": 5,
+    "O": 6
+  },
+  "model_class": "BertForTokenClassification",
+  "model_name": "bert-base-multilingual-cased",
+  "model_type": "bert",
+  "name": null
+}

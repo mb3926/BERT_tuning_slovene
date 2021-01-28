@@ -1,0 +1,14 @@
+{
+  "config": null,
+  "hidden_size": 768,
+  "label2id": {
+    "Fem": 0,
+    "Mas": 1,
+    "Neu": 2,
+    "O": 3
+  },
+  "model_class": "BertForTokenClassification",
+  "model_name": "EMBEDDIA/crosloengual-bert",
+  "model_type": "bert",
+  "name": null
+}

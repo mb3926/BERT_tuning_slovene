@@ -1,0 +1,7 @@
+Acc
+Dat
+Gen
+Ins
+Loc
+Nom
+O
